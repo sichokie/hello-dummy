@@ -17,7 +17,7 @@ export default function Home() {
 			<main className={styles.main}>
 				<div className={styles.description}>
 					<p>
-						Get started by editing&nbsp;
+						Ini udah diedit&nbsp;
 						<code className={styles.code}>pages/index.js</code>
 					</p>
 					<div>
@@ -97,9 +97,7 @@ export default function Home() {
 						<h2 className={inter.className}>
 							Templates <span>-&gt;</span>
 						</h2>
-						<p className={inter.className}>
-							Discover and deploy boilerplate example Next.js&nbsp;projects.
-						</p>
+						<p className={inter.className}>Edit lagi disini&nbsp;projects.</p>
 					</a>
 
 					<a
