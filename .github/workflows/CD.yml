@@ -26,9 +26,9 @@ jobs:
           script: |
             sudo su
             cd /home/andikabgs90/apps-test/hello-dummy
-            git pull origin main
-            git status
-            npm install
-            npm run build
-            pm2 reload 6
+            sudo git pull origin main
+            sudo git status
+            sudo yarn install
+            sudo yarn run build
+            sudo pm2 reload 6
             
